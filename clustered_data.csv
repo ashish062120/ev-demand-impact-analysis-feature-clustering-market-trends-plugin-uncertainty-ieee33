@@ -1,0 +1,172 @@
+EV Model,Battery Capacity,Driving Range,Cluster
+Audi e tron SUV 50,71.0,336,2
+Audi e tron SUV 55,95.0,436,0
+Audi e tron SUV S,95.0,413,0
+Audi e tron sportback 50,71.0,342,2
+Audi e tron sportback 55,95.0,444,0
+Audi e tron sportback S,95.0,418,0
+Audi e-tron GT,93.4,448,0
+Audi RS e-tron GT ,93.4,433,0
+BMW iX xDrive40,77.0,420,0
+BMW iX xDrive40 sport,77.0,420,0
+BMW iX xDrive50 Sport ,112.0,620,0
+BMW iX M60,112.0,566,0
+BMW iX3,80.0,460,0
+BMW MINI Electric,33.0,242,2
+BMW i4eDrive40,84.0,590,0
+BMW i4M50,84.0,510,0
+BMW i7 xDrive 60,102.0,625,0
+BYD Atto 3,38.2,500,0
+Ford Escape,14.4,56,1
+Hyundai Ioniq Electric Elite,28.0,311,2
+Hyundai Ioniq Electric Premium,38.0,311,2
+Hyundain Inoniq Plugin Premium,8.9,63,1
+Hyundai Ioniq 5 2WD,72.6,451,0
+Hyundai Ioniq 5 AWD,72.6,430,0
+Hyundai Kona Electric Elite std,39.2,305,2
+Hyundai Kona Electric Elite - long range,64.0,484,0
+Hyundai Kona Highlander-long range,64.0,499,0
+Hyundai kona Highlander-Std range,39.2,305,2
+JLR Range Rover SE,38.2,125,1
+JLR Range Rover HSE,38.2,125,1
+JLR Range Rover Autobiography,38.2,125,1
+JLR Range Rover Evoque,15.0,66,1
+JLR Range Rover Sport,38.2,125,1
+JLR Range Rover Velar,19.2,59,1
+JLR I-PACE EV400 SE,90.0,446,0
+JLR I-PACE EV400 HSE,90.0,446,0
+Kia E-niro sport wagon,8.9,58,1
+Kia E-niro S wagon,8.9,58,1
+Kia E-niro EV sport wagon,64.0,455,0
+Kia E-niro EV S wagon,64.0,455,0
+Kia E-niro EV6,77.4,528,0
+Lexus ux300E,54.3,360,2
+Lexus NX450h+,18.1,70,1
+Mazda MX-30 Electric,35.5,224,2
+Mercedes-Benz EQC400,80.0,434,0
+Mercedes-Benz EQC400 Sport,80.0,434,0
+Mercedes-Benz A class 250e,15.6,73,1
+Mercedes-Benz GLC 300e,13.5,46,1
+Mercedes-Benz E-class 300e,13.5,50,1
+Mercedes-Benz EQA 250,66.5,480,0
+Mercedes-Benz EQA 350,66.5,464,0
+Mercedes-Benz EQB 250,66.5,507,0
+Mercedes-Benz EQB 350,66.5,445,0
+Mercedes-Benz EQS 53 4MATIC+,107.8,578,0
+MG HS PLUS Excite,16.6,52,1
+MG HS PLUS Essence,16.6,52,1
+MG ZS EV Excite,50.3,320,2
+MG ZS EV Essence,50.3,320,2
+Mitsubishi Eclipse Cross,13.8,56,1
+Mitsublishi Outlander ,20.0,84,1
+Nissan Leaf ,39.0,270,2
+Nissan Leaf e+,59.0,385,0
+Peugeot 508 GT Hybrid Fastback,11.5,55,1
+Peugeot 3008 GT Sport Hybrid AWD,13.2,60,1
+Polestar 2 standard range ,61.0,470,0
+Polestar 2 long range ,75.0,540,0
+Polestar 2 long range dual motor,75.0,480,0
+Porsche Taycan real wheel drive,71.0,403,0
+Porsche Taycan real wheel drive plus,83.7,462,0
+Porsche Taycan 4S,71.0,415,0
+Porsche 4S plus,83.7,478,0
+Porsche GTS,83.7,485,0
+Porsche Turbo ,83.7,482,0
+Porsche Turbo S,83.7,469,0
+Porsche Taycan Cross 4 ,83.7,469,0
+Porsche Taycan Cross 4S ,83.7,469,0
+Porsche Taycan Cross Turbo,83.7,472,0
+Porsche Cayenne E-hybrid ,14.3,47,1
+Porsche Cayenne E-hybrid Platinum,14.3,47,1
+Porsche Cayenne E-hybrid Coupe,14.3,47,1
+Porsche Cayenne E-hyrbid Coupe Platinum,14.3,47,1
+Porsche Cayenne Turbo S E-hybrid,14.3,47,1
+Porsche Cayenne Turbo S E-hyrbid Coupe,14.3,47,1
+Porsche Panamera 4 E-hybrid,14.3,56,1
+Porsche Panamera 4 E-hybrid Platinum,14.3,56,1
+Porsche Panamera 4 E-hybrid executive,14.3,55,1
+Porsche Panamera 4 E-hybird sport turismo,14.3,56,1
+Porsche Panamera 4S E-hybrid,14.3,54,1
+Porsche Panamera Turbo S E-hybrid,14.3,53,1
+Tesla Model 3 rear wheel drive,60.0,491,0
+Tesla Model 3 Long range,79.6,612,0
+Tesla Model 3 Performance ,82.0,567,0
+Tesla Model Y Rear Wheel drive,62.3,455,0
+Tesla Model Y Performance,82.0,514,0
+Volvo XC40 ,78.0,450,0
+Volvo XC60,14.9,81,1
+Volvo XC90,14.9,77,1
+CUPRA Leon,12.8,60,1
+CUPRA Formentor,12.8,55,1
+Genesis G80 electrified,87.2,500,0
+Genesis GV60 Performance,77.4,451,0
+Genesis GV70 electrified ,77.4,400,0
+Kia EV6 GT-line,77.4,505,0
+LDV eT60,88.5,330,2
+LDV Mifa 9 GV70,90.0,440,0
+Mercedes-Benz EQE 53,90.6,518,0
+Peugeot e-2008 ,50.0,332,2
+Volvo XC40 ,69.0,510,0
+Volvo C40 Recharge Pure electric,69.0,540,0
+Volvo C40 Recharge Twin pure electric,78.0,500,0
+Toyota BZ4X FWD,71.4,516,0
+Toyota BZ4X AWD,71.4,460,0
+Volkswagen ID3,58.0,500,0
+Tesla Model S Long range,100.0,652,0
+Tesla Model S Plaid,100.0,637,0
+Tesla Model X long Range,100.0,560,0
+Tesla Model X-Plaid ,100.0,536,0
+braaap MotoE motorbike,4.32,140,1
+Benzina Zero Duo scooter,2.52,105,1
+Benzina Zero Duo  + Scooter,2.52,95,1
+Benzina Zero City,2.1,80,1
+Benzina Zero sport scooter,2.1,90,1
+EMoS iTango LA,1.25,60,1
+EMoS iTank LA,1.56,70,1
+EMoS Itank LC,1.56,60,1
+EMoS EH7 LA,2.16,160,1
+EMoS EH7 LC,2.16,100,1
+EMoS CT-Kargo LA,6.992,100,1
+EMoS CT-Kube LA,4.864,100,1
+Evoke urban classic motorbike,7.8,250,2
+Fonzarelli Arthur 1 scooter,1.68,50,1
+Fonzarelli Arthur 2 scooter,2.2,65,1
+Fonzarelli Arthur 3 scooter,3.3,100,1
+Fonzarelli X1 scooter,3.3,80,1
+Fonzarelli NKDx scooter,6.2,200,2
+Harley-Davidson Livewire,15.5,235,2
+Horwin EK3 scooter,6.2,100,1
+Savic Alpha,11.0,200,2
+Savic Delta,9.0,150,1
+Super Soco TC Café,1.8,75,1
+Super Soco TC max ,3.24,110,1
+Super soco cux scooter,1.8,75,1
+Vmoto EVS1 LC,2.7,140,1
+WYLD G LA,1.2,50,1
+WYLD R LA,1.8,80,1
+WYLD THANG LA,1.8,60,1
+ACE Cargo Light Van,23.2,200,2
+ACE VI Transformer,52.5,258,2
+AUSEV Atlis XT,120.0,480,0
+AUSEVZeus Z-16,210.0,350,2
+BLK Auto JAC N55 EV,96.7,200,2
+Daimler Truck and Bus Fuso e-canter,82.8,100,1
+Electric truck australia BYD T3 Van,50.3,300,2
+EV Automotive EC11 Van,73.6,200,2
+Ford E-transit Van,68.0,317,2
+Foton iBlue light duty truck,81.0,200,2
+GB Auto TEMBO 4X4 E LV 1,28.4,80,1
+GB Auto TEMBO 4X4 E LV 2,56.8,160,1
+JAC Motors N55 EV truck,96.7,200,2
+LDV eDeliver 9 Van,88.5,280,2
+Mercedes eVito Tourer ,90.0,361,2
+Mercedes eVito Panel Van,60.0,341,2
+Renault Kangoo Z.E. Maxi Van,33.0,200,2
+Safescape Bortana EV,52.0,120,1
+SEA Electric E4V Van,88.0,250,2
+SEA Electric SEA 300-45 Truck,70.0,200,2
+SEA Electric SEA300-85 Truck,118.0,220,2
+SEA 500-140 Truck,136.0,160,2
+SEA 500-225 Truck,193.0,200,2
+Voltra e-cruiser,42.24,100,1
+Zero automotive ZED70,88.0,350,2
